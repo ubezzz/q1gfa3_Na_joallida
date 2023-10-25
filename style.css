@@ -1,0 +1,104 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Slabo+27px&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#body{
+    background-color: #E6DDD5;
+}
+#navbar{
+    height: 5vh;
+    background-color: #D8BF9F;
+    padding: 7px;
+}
+#navbar a{
+    float: right;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: left;  
+    color: #493423;
+    font-family: 'Open Sans', sans-serif;
+}
+#links a{
+    float: right;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: right;
+    color: black;
+}
+#navbar div{
+    display: inline;
+}
+#Header img{
+    margin-top: 50px;
+    margin-left: 50vh;
+    height: 90vh;
+}
+#Header h3{
+    margin: auto;
+    margin-left: 170px;
+    margin-right: 170px;
+    color: #493423;
+    font-family: 'Open Sans', sans-serif;
+}
+#p1 a{
+    padding: 7px;
+    background-color:#D2A87D ;
+    color: white;
+    margin-left: 170px;
+    text-decoration: none;
+}
+#footer{
+    position: relative;
+    height: 5vh;
+    background-color: #D8BF9F;
+    padding: 7px;
+    height: 5vh;
+    background-size: 100%;
+}
+#socials img{
+    display: inline;
+    float: right;
+    width: 35px;
+}
+#pageT{
+    margin: 20px;
+}
+#INT{
+    display: flex;
+}
+#INTimg{
+    margin: 10px;
+}
+#INTimg img{
+    width: 150px;
+}
+#p2 a{
+    padding: 7px;
+    background-color:#D2A87D ;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+#p3 a{
+    padding: 7px;
+    background-color:#D2A87D ;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+#p4 a{
+    padding: 7px;
+    float: right;
+    background-color:#D2A87D ;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+
